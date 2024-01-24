@@ -1,3 +1,4 @@
+#upload
 package main
 
 import (
