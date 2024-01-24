@@ -1,4 +1,4 @@
-#upload
+#upload document
 package main
 
 import (
